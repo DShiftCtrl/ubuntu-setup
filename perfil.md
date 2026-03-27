@@ -11,3 +11,10 @@ Carrera: Ciencias de la Computación
 ## Objetivos
 - Aprender Git
 - Mejorar en programación
+
+## Parte perfil
+Daniel Salazaar
+- Ingenieria
+- -Soccer
+- 
+
