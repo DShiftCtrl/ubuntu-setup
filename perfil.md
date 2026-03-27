@@ -1,4 +1,4 @@
-·Mi perfil
+#Mi perfil
 
 Nombre: Daniel Salazar
 Carrera: Ciencias de la Computación
@@ -7,3 +7,7 @@ Carrera: Ciencias de la Computación
 - Leer
 - Escuchar música
 - Jugar fútbol
+
+## Objetivos
+- Aprender Git
+- Mejorar en programación
